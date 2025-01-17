@@ -5,7 +5,7 @@
 ---
 
 ### 1. 가상 환경 테스트
-![가상 환경 테스트](https://github.com/kdykmg/Detecting_Fallen/blob/main/Stack.gif)
+![가상 환경 테스트](https://github.com/kdykmg/Detecting_Fallen/blob/main/gazebo.gif)
 
 가제보(Gazebo) 시뮬레이터에서 수행된 테스트로, 드론이 가상 환경에서 쓰러진 사람을 탐지하는 과정을 보여준다.
 
