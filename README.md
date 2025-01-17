@@ -18,17 +18,5 @@
 ![필드 테스트 - 스택](https://github.com/kdykmg/Detecting_Fallen/blob/main/Stack.gif)
 
 필드 환경에서 신뢰 스택 알고리즘을 적용하여 드론이 탐지 작업을 수행한 결과를 보여준다.
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
-  <div style="text-align: center;">
-    <h3>필드 테스트 (스택 알고리즘 미 적용)</h3>
-    <img src="https://github.com/kdykmg/Detecting_Fallen/blob/main/Non%20Stack.gif" 
-         alt="필드 테스트 - 논 스택" 
-         width="300"/>
-  </div>
-  <div style="text-align: center;">
-    <h3>필드 테스트 (스택 알고리즘 적용)</h3>
-    <img src="https://github.com/kdykmg/Detecting_Fallen/blob/main/Stack.gif" 
-         alt="필드 테스트 - 스택" 
-         width="300"/>
-  </div>
-</div>
+
+<div style="display: flex; justify-content: space-between;"> <div style="flex: 1; text-align: center;"> <h4>스택 알고리즘 미 적용</h4> <img src="https://github.com/kdykmg/Detecting_Fallen/blob/main/Non%20Stack.gif" alt="필드 테스트 - 논 스택" style="max-width: 100%;"> </div> <div style="flex: 1; text-align: center;"> <h4>스택 알고리즘 적용</h4> <img src="https://github.com/kdykmg/Detecting_Fallen/blob/main/Stack.gif" alt="필드 테스트 - 스택" style="max-width: 100%;"> </div> </div>
