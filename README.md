@@ -11,8 +11,7 @@
 
 
 
-### 2. 필드 테스트 (비교: 스택 알고리즘 미 적용 vs 적용)
-
+### 2. 필드 테스트
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
   <tr>
     <td align="center" width="50%" style="border: 2px solid #ccc; padding: 10px; vertical-align: top;">
