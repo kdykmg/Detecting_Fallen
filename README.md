@@ -3,7 +3,7 @@
 본 리포지토리는 제안된 시스템의 테스트 영상을 제공한다. 각각의 영상은 가상 환경과 실제 필드 환경에서의 테스트 결과를 보여준다.
 
 ---
-<video src="https://https://github.com/kdykmg/Detecting_Fallen/blob/main/%EA%B0%80%EC%A0%9C%EB%B3%B4%ED%99%98%EA%B2%BD.mp4" width="480" controls>
+<video src="https://github.com/kdykmg/Detecting_Fallen/blob/main/%EA%B0%80%EC%A0%9C%EB%B3%B4%ED%99%98%EA%B2%BD.mp4" width="480" controls>
 ### 1. 가상 환경 테스트
 가제보(Gazebo) 시뮬레이터에서 수행된 테스트로, 드론이 가상 환경에서 쓰러진 사람을 탐지하는 과정을 보여준다.
 - [가상 환경 테스트](https://github.com/kdykmg/Detecting_Fallen/blob/main/%EA%B0%80%EC%A0%9C%EB%B3%B4%ED%99%98%EA%B2%BD.mp4)
